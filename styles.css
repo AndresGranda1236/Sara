@@ -46,3 +46,20 @@ body {
 #botonBesos:hover {
   background-color: #ff3385; /* Cambio de color al pasar el cursor */
 }
+
+#mensajee {
+  max-width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#mensajee img {
+  max-width: 60%;
+  margin-bottom: 20px;
+  background-color: #47022c; /* Fondo del corazón más cálido */
+  padding: 10px;
+  border-radius: 50%;
+}
